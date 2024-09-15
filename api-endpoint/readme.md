@@ -2,7 +2,7 @@
 
 Welcome to the repository for our database and API endpoint tutorial! This guide will walk you through creating your own API endpoint using Google Sheets and Google Apps Script. Follow along to integrate a dynamic database with your web map application.
 
-> [!TIP]
+> [!IMPORTANT]
 > Check out our full tutorial on the [DIG-ITal Journeys website](https://digit.use-it.travel/api-endpoint/)
 
 ## Tutorial Overview
@@ -33,4 +33,4 @@ In this tutorial, you will:
 
 ## Further Reading
 
-Check out the rest of our tutorials for more on digital mapmaking tools and techniques. Happy mapmaking!
+Check out the [rest of our tutorials](https://digit.use-it.travel/tutorials/) for more on digital mapmaking tools and techniques. Happy mapmaking!
