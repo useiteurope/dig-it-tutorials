@@ -27,10 +27,7 @@ function doGet(e) {
       rowObject['type'] = 'Feature';
       rowObject['properties'] = rowDataProperties;
       rowObject['geometry'] = rowGeometry;
-      featuresArray.push(rowObject);
-      console.log(rowObject);
-    
-      
+      featuresArray.push(rowObject);      
     }
     
     // create a geodata object
