@@ -13,7 +13,7 @@ We’ll cover:
 - Adding a geolocation button
 - Using the `getCurrentPosition` method to find the user's real-time location
 - Displaying their location as a map marker
-- Handling errors and customization options
+- Handling errors and customisation options
 
 ## 🚀 **Getting Started**
 
