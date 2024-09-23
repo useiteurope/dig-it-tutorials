@@ -2,6 +2,9 @@
 
 Welcome to this playful guide on how to create a web map that not only looks good but also knows *exactly* where you are! Using JavaScript, Leaflet, and a sprinkle of geolocation magic, you’ll learn how to add a button that reveals the user's real-time location on your map.
 
+> [!IMPORTANT]
+> Check out our full tutorial on the [DIG-ITal Journeys website](https://digit.use-it.travel/device-location/)
+
 ## 🎯 **Tutorial Overview**
 In this tutorial, we’ll take you step-by-step through building an interactive web map. By the end, you'll have created a basic map using Leaflet (a brilliant open-source mapping library) that locates the user with a single click.
 
