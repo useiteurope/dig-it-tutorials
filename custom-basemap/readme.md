@@ -2,6 +2,8 @@
 
 This guide will help you create and deploy a visually appealing basemap for your online applications using Mapbox Studio. From tweaking styles to customising layers, you'll be able to make a map that aligns perfectly with your project’s aesthetic.
 
+> [!IMPORTANT]
+> Check out our full tutorial on the [DIG-ITal Journeys website](https://digit.use-it.travel/custom-basemap/)
 
 
 ## 📖 Tutorial Overview
