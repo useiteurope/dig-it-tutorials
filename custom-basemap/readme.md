@@ -2,7 +2,7 @@
 
 This guide will help you create and deploy a visually appealing basemap for your online applications using Mapbox Studio. From tweaking styles to customising layers, you'll be able to make a map that aligns perfectly with your project’s aesthetic.
 
----
+
 
 ## 📖 Tutorial Overview
 
@@ -15,14 +15,14 @@ In this tutorial, we’ll cover:
 
 By the end, you’ll have a personalised map style ready to be used in your web applications, complete with your own colours, fonts, and custom layers!
 
----
+
 
 ## 📂 Exercise Files
 
 Here you’ll find the resources you need to follow along with this tutorial:
 - **style.json**: This is the Mapbox style file based on the colour palette of the latest Nantes paper map. You’ll use this file to upload a style in Mapbox Studio and customise it for your own basemap.
 
----
+
 
 ## 🚀 Getting Started
 
@@ -46,12 +46,12 @@ Download and save the `style.json` file to a location where you can easily acces
 - Once you're happy with your map, click **Publish** to apply the changes.
 - Use the **Share** button to get the endpoints you’ll need to integrate the map into your application.
 
----
+
 
 ## 📚 Further Reading
 
 Check out the [rest of our tutorials](https://digit.use-it.travel/tutorials/) for more on digital mapmaking tools and techniques.
 
----
+
 
 🎉 **Happy Mapping!** We can’t wait to see the custom maps you create. Be sure to share your projects with us or contribute to the repo by submitting pull requests with new ideas and improvements.
