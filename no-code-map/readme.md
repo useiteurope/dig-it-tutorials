@@ -6,6 +6,10 @@ Ever wished your paper maps could come alive online? With this tutorial, you'll 
 
 By the end, you’ll have a fully interactive map ready to share with the world. Let’s get mapping!
 
+> [!IMPORTANT]
+> Check out our full tutorial on the [DIG-ITal Journeys website](https://digit.use-it.travel/no-code-map/)
+
+
 ## 🚀 Getting Started
 
 Ready to dive in? Here’s what you need to get started:
